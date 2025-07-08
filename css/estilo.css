@@ -30,7 +30,7 @@ a:hover {
     width: 248px;
     height: 21px;
     display: block;
-    background: url(img/logo.png)no-repeat;
+    background: url(..img/logo.png)no-repeat;
 }
 
 /*Barra de navegação
